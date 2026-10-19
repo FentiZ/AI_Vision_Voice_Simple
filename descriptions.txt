@@ -1,0 +1,6 @@
+cat.jpg: a cat with green eyes
+astronaut.jpg: a young man in an orange astronaut suit and helmet
+camera.jpg: a man in a suit and tie is taking a photo
+cat.jpg: a cat with green eyes
+coffee.jpg: a cup of coffee on a wooden table
+rocket.jpg: a spacex rocket is seen at night
